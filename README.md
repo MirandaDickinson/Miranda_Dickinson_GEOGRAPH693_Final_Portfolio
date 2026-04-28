@@ -7,3 +7,6 @@ Here is an example of a story map:
 
 https://storymaps.arcgis.com/stories/52081b48198a41fc95a2e46a7a033a15 
 
+Here is an example of a map made with Mapbox:
+
+https://mirandadickinson.github.io/Mapbox_Project/ 
